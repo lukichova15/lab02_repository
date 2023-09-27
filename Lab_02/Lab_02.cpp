@@ -5,11 +5,11 @@
 Варіанти 12*/
 
 #include <iostream>
-#include <cmath> // Додайте цей рядок
+#include <cmath> 
 using namespace std;
 
 int main() {
-	const double pi = 3.141592653589793238; // Використовуйте M_PI замість власної константи
+	const double pi = 3.141592653589793238; 
 	double a; // вхідний параметр 
 	double z1, z2; // результати обчислення 1-го та 2-го  виразу відповідно
 	cout << "a = "; cin >> a;
